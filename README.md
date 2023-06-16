@@ -1,14 +1,6 @@
 
-# Hi, I'm MR WHITE HIRU! 👋
+![Use To Create Your Own Personal Passwoed](https://github.com/hackersinsrilankaofc/passCreater/raw/main/20230616_155510.jpg) <h4 align="center"> Use To Create Your Own Personal Password!</h4>
 
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
-# PASS CREATER
-#
-Use To Create Your Own Personal Passwoed
 
 
 ## 
