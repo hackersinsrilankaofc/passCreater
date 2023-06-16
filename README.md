@@ -12,7 +12,7 @@
   pkg install python
 ```
 ```bash
-  git clone https://github.com/MrWhiteHiru/passCreater.git
+  git clone https://github.com/hackersinsrilankaofc/passCreater.git
 ```
 ```bash
   cd passCreater
@@ -24,7 +24,7 @@
 [ Linux ]
 
 ```bash
-  git clone https://github.com/MrWhiteHiru/passCreater.git
+  git clone https://github.com/hackersinsrilankaofc/passCreater.git
 ```
 ```bash
   cd passCreater
@@ -38,7 +38,7 @@
 Install my-project with linux
 
 ```bash
-  git clone https://github.com/MrWhiteHiru/passCreater.git
+  git clone https://github.com/hackersinsrilankaofc/passCreater.git
   cd passCreater
   python pass.py
 ```
@@ -47,3 +47,4 @@ Install my-project with linux
 
 ![App Screenshot](https://i.ibb.co/J5zPp7N/image-2023-03-20-190656625.png)
 
+Full Owned By Mr.White Hiru
