@@ -42,7 +42,7 @@ age = int(input(y+"Enter your age: "))
 password = create_password(firstname, lastname, age)
 
 
-print(pi+"\n[#] Password Creator by White Hiru [#]\n"+reset)
+print(pi+"\n[#] Password Creator by White Hiru (HISL) [#]\n"+reset)
 print(g+f"Your password is:  {password}")
 
 
